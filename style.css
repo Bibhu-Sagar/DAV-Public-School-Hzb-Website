@@ -1,0 +1,17 @@
+#d1 {
+    background-color: aqua;
+}
+body {
+    background-color: aqua;
+}
+#damru {
+    background-color: #120eed;
+    width: 70%;
+    color: aqua;
+    border-radius: 10px;
+    padding-top: 10px; 
+        padding-bottom: 10px;
+}
+html {
+    scroll-behavior: smooth;
+}
