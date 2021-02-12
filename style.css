@@ -12,6 +12,21 @@ body {
     padding-top: 10px; 
         padding-bottom: 10px;
 }
+.achievments_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+   width: 80%;
+    margin-left: 130px;
+}
+.achievments_head i {
+    float:right;
+}
+
+.achievments_text span {
+    color: #ff7700;
+}
 html {
     scroll-behavior: smooth;
 }
