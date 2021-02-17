@@ -20,12 +20,39 @@ body {
    width: 80%;
     margin-left: 130px;
 }
+.book {
+    cursor: pointer;
+}
+.book hr {
+    margin-bottom: 10px;
+}
+.modal-content {
+    margin-top: 100px;
+    
+}
+.img_modal {
+    display: inline-block;
+    
+}
+.p_modal {
+    margin-top:10px;
+}   
 .achievments_head i {
     float:right;
 }
 
+.whatsnew_p {
+    padding-top: 40px;
+}
+
 .achievments_text span {
     color: #ff7700;
+}
+.whatsnew_li {
+    border-radius: 100px;
+}
+#contact {
+    margin-top: 330px;
 }
 html {
     scroll-behavior: smooth;
